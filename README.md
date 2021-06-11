@@ -41,7 +41,7 @@ We provide an expanding set of tests against the following 64-bit platforms whic
 
 ### Chef
 
-This cookbook requires Chef >= 13.
+This cookbook requires Chef >= 15.3.
 
 ## Recipes
 
